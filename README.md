@@ -25,3 +25,12 @@ This project explores the famous Titanic dataset to uncover patterns in passenge
 ##  Tools Used
 - **Python** (pandas, seaborn, matplotlib)
 - **Jupyter Notebook**
+
+- ##  What I Learned
+- How to handle missing data
+- How to interpret correlation coefficients
+- How to tell a compelling story
+- The efficiency of using categorical data
+
+## Connect With Me
+I am actively building my portfolio and sharing my journey.
